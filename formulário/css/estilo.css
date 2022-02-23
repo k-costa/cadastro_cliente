@@ -1,0 +1,24 @@
+body{
+    padding-top: 60px;
+    background-color: #cbd9ea;
+}
+
+h1, h3{
+    text-align: center;
+}
+
+h3{
+    padding-top: 10px;
+}
+
+.card{
+    box-shadow: 3px 6px 8px 3px rgba(100,100,100,0.3);
+}
+
+.btn-primary{
+    margin-top: 10px;
+}
+
+form, .alert{
+    margin-bottom: 0;
+}
